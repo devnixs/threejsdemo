@@ -2,7 +2,7 @@
 node_modules/
 
 # Vite build output
-#dist/
+dist/
 
 # Production build folder
 build/
