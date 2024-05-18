@@ -4,6 +4,7 @@ import { TextureLoader } from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 import { CabinDefinition, loadCabinObject } from "./objects/cabin";
 import { buildGui } from "./objects/gui";
+import imageUrl from "../public/images/everest.jpg";
 
 class CabinScene {
   private _scene = new THREE.Scene();
@@ -62,7 +63,7 @@ class CabinScene {
 
 
     const textureLoader = new TextureLoader();
-    textureLoader.load("/images/everest.jpg", (texture) => {
+    textureLoader.load(imageUrl, (texture) => {
       this._scene.background = texture;
     });
 
