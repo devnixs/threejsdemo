@@ -1,0 +1,11 @@
+Model Information:
+* title:	Telecabine Mountain
+* source:	https://sketchfab.com/3d-models/telecabine-mountain-25dc6b46a19b40edbff5119e001f1204
+* author:	SebDD (https://sketchfab.com/sebdidio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Telecabine Mountain" (https://sketchfab.com/3d-models/telecabine-mountain-25dc6b46a19b40edbff5119e001f1204) by SebDD (https://sketchfab.com/sebdidio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
